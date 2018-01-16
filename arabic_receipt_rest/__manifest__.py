@@ -22,6 +22,9 @@
         'views/malik.xml',
         'views/malik_v.xml',
     ],
+    'images': [
+        'static/description/rest_receipt1.png',
+    ],
 
     'demo': [
         #'demo/demo.xml',
