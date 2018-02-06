@@ -134,7 +134,7 @@ class PosOrder(models.Model):
                 y2 = y2 + 1
             fonts = [os.path.dirname(__file__) + '/img/KacstOffice.ttf', os.path.dirname(__file__) + '/img/amiri-regular.ttf']
             draw = Drawing()
-            img = wImage(width=500, height=260 + y * 50 + 80, background=Color('#ffffff'))
+            img = wImage(width=500, height=260 + y * 70 + 100, background=Color('#ffffff'))
             draw.text_alignment = 'center';
             draw.text_antialias = True
             draw.text_encoding = 'utf-8'
