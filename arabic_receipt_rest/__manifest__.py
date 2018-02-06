@@ -9,7 +9,7 @@
         
     """,
 
-    'author': "Abdelmalik Yousif",
+    'author': "Ad Mk Joseph",
     'website': "abdelmalik19930@gmail.com",
     'category': 'Generic Modules',
     'version': '1.0',
